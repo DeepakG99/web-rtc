@@ -1,0 +1,6 @@
+{
+  "projects": {
+    "default": "fir-rtc-89b99",
+    "staging": "fir-rtc-916c5"
+  }
+}
